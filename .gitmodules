@@ -1,0 +1,3 @@
+[submodule "360VOT"]
+	path = 360VOT
+	url = git@github.com:HuajianUP/360VOT.git
