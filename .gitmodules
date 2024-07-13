@@ -1,3 +1,6 @@
 [submodule "360VOT"]
 	path = 360VOT
 	url = git@github.com:HuajianUP/360VOT.git
+[submodule "AiATrack"]
+	path = AiATrack
+	url = https://github.com/Little-Podi/AiATrack.git
