@@ -4,6 +4,4 @@
 [submodule "AiATrack"]
 	path = AiATrack
 	url = https://github.com/Little-Podi/AiATrack.git
-[submodule "KernelTransformerNetwork"]
-	path = KernelTransformerNetwork
-	url = git@github.com:sammy-su/KernelTransformerNetwork.git
+
