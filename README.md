@@ -54,6 +54,14 @@ This repository contains all the code developed and used for my master's thesis,
 4. **Testing Hypotheses**:
    The `test_hypothesis.ipynb` notebook integrates the tangent projector logic for inference testing on edge cases.
 
+## References
+
+This work heavily relies on the following research and repository codes:
+
+- Gao, Shenyuan, et al. *"AiATrack: Attention in Attention for Transformer Visual Tracking."* European Conference on Computer Vision. Springer, 2022.
+- Huang, Huajian, et al. *"360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking."* Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023.
+- Su, Yu-Chuan, and Kristen Grauman. *"Kernel Transformer Networks for Compact Spherical Convolution."* Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+
 ## Future Work
 
 The `SphereProjection.ipynb` notebook outlines a potential future direction involving the Kernel Transformer network training pipeline, evaluating its performance on the 360VOT train set.
