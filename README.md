@@ -1,5 +1,6 @@
 # OmniTrack
 
+Thesis document can be found [here](https://drive.google.com/file/d/1zU0AkN80Zk_GOe6Yb8sdnuzQ_Ag4ZJWa/view?usp=sharing)
 
 # Master's Thesis Codebase
 
